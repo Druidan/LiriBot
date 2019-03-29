@@ -32,7 +32,7 @@ function liriSearch(command){
             randomTxtThis()
             break;
         default:
-            console.log("Hmmm... It looks like you didn't input one of the four valid commands. Please use only one of the following:\n'concert-this'\n'spotify-this-song'\n'movie-this'\nOr use 'do-what-it-says' if you want to see what search terms we're looking for! ;)")
+            console.log("\nHmmm... It looks like you didn't input one of the four valid commands. Please use only one of the following:\n'concert-this'\n'spotify-this-song'\n'movie-this'\nOr use 'do-what-it-says' if you want to see what search terms we're looking for! ;)")
             break;
     }
 }
@@ -50,7 +50,7 @@ function bitThis(){
             console.log(loggity);
             fs.appendFile("log.txt", loggity, function (error){
                 if (error) throw error;
-                console.log("Your search has been saved to the log!")
+                console.log("\nYour search has been saved to the log!")
             });
             consoleThanks()
     }).catch(function(error) {
@@ -92,7 +92,7 @@ function spotifyThis(){
             console.log(loggity);
             fs.appendFile("log.txt", loggity, function (error){
                 if (error) throw error;
-                console.log("Your search has been saved to the log!")
+                console.log("\nYour search has been saved to the log!")
             });
             consoleThanks();
         })
@@ -110,7 +110,6 @@ function omdbThis(){
     movieQuery = "https://www.omdbapi.com/?t="+movieTitle+"&y=&plot=short&apikey=" + omdb;
     axios.get(movieQuery)
     .then( function(response) {
-        console.log(response)
         let rottenTomatoRating;
         const rating = response.data.Ratings
         if(!rating[0].Source){
@@ -179,5 +178,5 @@ function consoleThanks(){
 }
 
 function consoleError(){
-    console.log("\nHuh... We recieved an Error! Check to see if what you're searching for is accurate. If it is, then they probably aren't playing soon, or they aren't being tracked by our services. Sorry!")
+    console.log("\nHuh... We recieved an Error! Check to see if what you're searching for is accurate. If it is, then what you want to search probably isn't tracked by our services. Sorry!")
 }

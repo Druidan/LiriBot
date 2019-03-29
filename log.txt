@@ -1,0 +1,75 @@
+
+We've found the soonest upcoming show for Panic! at the Disco!
+ The Venue: The O2
+ The Venue's Location: London, United Kingdom
+ Date: 03/29/2019
+
+We've found the soonest upcoming show for ?!
+ The Venue: La Gare Jazz
+ The Venue's Location: Paris, France
+ Date: 04/12/2019
+
+It looks like we may have found your song!
+ Artist(s): Ace of Base
+ Song Title: The Sign
+ Album: The Sign (US Album) [Remastered]
+ Go Have a Listen on Spotify: https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE
+
+It looks like we may have found your song!
+ Artist(s): blink-182
+ Song Title: All The Small Things
+ Album: Enema Of The State
+ Go Have a Listen on Spotify: https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
+
+It looks like we found your movie!
+ Title: Mr. Nobody
+ Year: 2009
+ Country(ies): Belgium, Germany, Canada, France, USA, UK
+ Language(s): English, Mohawk
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ The Film Stars: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Its IMDB Rating sits at 7.8, and it currently has a 67% on the Tomatometer at Rotten Tomatoes.
+
+It looks like we found your movie!
+ Title: Spiderman
+ Year: 1990
+ Country(ies): Switzerland
+ Language(s): German
+ Plot: N/A
+ The Film Stars: N/A
+ Its IMDB Rating sits at 5.7 and we don't have records of its Rotten Tomato Rating.
+
+It looks like we found your movie!
+ Title: Spider-Man
+ Year: 2002
+ Country(ies): USA
+ Language(s): English
+ Plot: When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.
+ The Film Stars: Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco
+ Its IMDB Rating sits at 7.3, and it currently has a 90% on the Tomatometer at Rotten Tomatoes.
+
+It looks like we found your movie!
+ Title: U.S. Marshals
+ Year: 1998
+ Country(ies): USA
+ Language(s): English
+ Plot: U.S. Marshal Samuel Gerard and his team of Marshals are assigned to track down Sheridan, who has been accused of a double-murder.
+ The Film Stars: Tommy Lee Jones, Wesley Snipes, Robert Downey Jr., Joe Pantoliano
+ Its IMDB Rating sits at 6.5, and it currently has a 26% on the Tomatometer at Rotten Tomatoes.
+
+It looks like we may have found your song!
+ Artist(s): Backstreet Boys
+ Song Title: I Want It That Way
+ Album: The Hits--Chapter One
+ Go Have a Listen on Spotify: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+
+We've found the soonest upcoming show for Mumford and Sons!
+ The Venue: Mediolanum Forum
+ The Venue's Location: Assago, Italy
+ Date: 04/29/2019
+
+It looks like we may have found your song!
+ Artist(s): Backstreet Boys
+ Song Title: I Want It That Way
+ Album: The Hits--Chapter One
+ Go Have a Listen on Spotify: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
