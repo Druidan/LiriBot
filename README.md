@@ -1,5 +1,5 @@
-# liri-node-app
-Unit 10 - This project will create a command-line version of siri that will use several different APIs to search for music, bands, and local shows.
+# LiriBot
+LiriBot is a command-line version of siri that will use several different APIs to search for music, bands, and local shows.
 
 ## Goals & MVP:
 * The Goal of this project is to create a command-line search tool that can find information about movies, songs, and when bands are playing.
