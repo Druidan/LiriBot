@@ -1,6 +1,9 @@
 # LiriBot
 LiriBot is a command-line version of siri that will use several different APIs to search for music, bands, and local shows.
 
+## Video Walkthrough
+Watch a walkthrough of the app's functions [Here!](https://www.youtube.com/watch?v=blhtNukXXS4&feature=youtu.be)
+
 ## Goals & MVP:
 * The Goal of this project is to create a command-line search tool that can find information about movies, songs, and when bands are playing.
 * To that end, the MVP of this project is that, when run, it must:
